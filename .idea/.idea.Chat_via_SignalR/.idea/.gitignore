@@ -2,6 +2,9 @@
 /shelf/
 /workspace.xml
 # Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.Chat_via_SignalR.iml
 /modules.xml
 /.idea.Chat_via_SignalR.iml
 /contentModel.xml
